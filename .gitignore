@@ -1,0 +1,11 @@
+frames
+
+*json
+*mp4
+
+.DS_Store
+
+.ipynb_checkpoints/
+
+face_recognition
+mmdetection
